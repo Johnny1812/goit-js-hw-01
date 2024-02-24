@@ -3,7 +3,7 @@ function makeTransaction(quantity, pricePerDroid) {
   return `You ordered ${quantity} droids worth ${totalPrice} credits!`;
 }
 
-makeTransaction(5, 3, 10, 3000, 1000, 5000);
+// makeTransaction(5, 3, 10, 3000, 1000, 5000);
 
 // quantity(5, 3, 10);
 // pricePerDroid(3000, 1000, 500);
